@@ -5,4 +5,6 @@
 bracket_checker : C언어로 연결리스트 기반 스택을 구현, 활용하여 괄호 확인 프로그램 제작.
 * 2018.12.03  
 array_base_queue : C언어로 배열 기반 원형 큐 구현  
-linked_list_base_queue : C언어로 연결리시트 기반 큐 
+linked_list_base_queue : C언어로 연결리스트 기반 큐 
+* 2018.12.07  
+linked_list_binary_tree : C언어로 연결리스트 기반 이진 트리 
