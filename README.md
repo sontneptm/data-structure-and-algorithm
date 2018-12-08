@@ -9,3 +9,5 @@ linked_list_base_queue : C언어로 연결리스트 기반 큐
 * 2018.12.07  
 linked_list_binary_tree : C언어로 연결리스트 기반 이진 트리 구현  
 binary_search_tree : C언어로 연결리스트 기반 이진 탐색 트리 구현
+* 2018.12.08  
+binary_tree_practice : C언어로 연결리스트 기반 이진 트리를 활용한 다양한 예제 
